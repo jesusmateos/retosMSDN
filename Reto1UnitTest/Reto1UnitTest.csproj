@@ -54,8 +54,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RetoMSDN1\Reto1ClassLibrary.csproj">
-      <Project>{e2dd153a-7b77-44cd-b6e8-4583c50dc057}</Project>
+    <ProjectReference Include="..\Reto1ClassLibrary\Reto1ClassLibrary.csproj">
+      <Project>{07d6f036-0635-4326-9ab2-d375f971f59e}</Project>
       <Name>Reto1ClassLibrary</Name>
     </ProjectReference>
   </ItemGroup>
