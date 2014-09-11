@@ -34,7 +34,7 @@ namespace Reto1ClassLibrary
 
         public override int GetHashCode()
         {
-            return base.GetHashCode();
+            return Tuple.Create(Nombre, Edad).GetHashCode();
         }
     }
 }
